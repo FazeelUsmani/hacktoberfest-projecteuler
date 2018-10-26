@@ -5,6 +5,7 @@ This repo contains solutions for projecteuler problems. Specially created for ne
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/MWNDkKEDzx7zp9Ca3HcRv1HG/moghya/hacktoberfest-projecteuler.svg' />
 </a>
 
+## Kindly update the solution links form problem 25 to problem 615. These links are not working, it's showing an error 404, page not found. 
 
 # Kind request to everyone that before sending any pull request test your solutions on <a href="https://projecteuler.net">projecteuler.net</a>.<br>
 
