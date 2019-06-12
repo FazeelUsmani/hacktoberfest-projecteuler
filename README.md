@@ -33,6 +33,9 @@ This repo contains solutions for projecteuler problems. Specially created for ne
 - Problem #22 [Names scores](https://projecteuler.net/problem=22)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-22)
 - Problem #23 [Non-abundant sums](https://projecteuler.net/problem=23)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-23)
 - Problem #24 [Lexicographic permutations](https://projecteuler.net/problem=24)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-24)
+
+# No solutions from problem 25
+
 - Problem #25 [1000-digit Fibonacci number](https://projecteuler.net/problem=25)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-25)
 - Problem #26 [Reciprocal cycles](https://projecteuler.net/problem=26)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-26)
 - Problem #27 [Quadratic primes](https://projecteuler.net/problem=27)   ||   [solutions](https://github.com/moghya/hacktoberfest-projecteuler/tree/master/solutions/problem-27)
